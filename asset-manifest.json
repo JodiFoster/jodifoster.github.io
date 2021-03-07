@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-site/static/css/main.7db5db14.chunk.css",
+    "main.js": "/my-site/static/js/main.c65d4262.chunk.js",
+    "main.js.map": "/my-site/static/js/main.c65d4262.chunk.js.map",
+    "runtime-main.js": "/my-site/static/js/runtime-main.e995cf70.js",
+    "runtime-main.js.map": "/my-site/static/js/runtime-main.e995cf70.js.map",
+    "static/js/2.672172f0.chunk.js": "/my-site/static/js/2.672172f0.chunk.js",
+    "static/js/2.672172f0.chunk.js.map": "/my-site/static/js/2.672172f0.chunk.js.map",
+    "static/js/3.e9bae56d.chunk.js": "/my-site/static/js/3.e9bae56d.chunk.js",
+    "static/js/3.e9bae56d.chunk.js.map": "/my-site/static/js/3.e9bae56d.chunk.js.map",
+    "index.html": "/my-site/index.html",
+    "static/css/main.7db5db14.chunk.css.map": "/my-site/static/css/main.7db5db14.chunk.css.map",
+    "static/js/2.672172f0.chunk.js.LICENSE.txt": "/my-site/static/js/2.672172f0.chunk.js.LICENSE.txt",
+    "static/media/avataar.9648ce48.svg": "/my-site/static/media/avataar.9648ce48.svg",
+    "static/media/email.169d53f8.svg": "/my-site/static/media/email.169d53f8.svg",
+    "static/media/github.ef0d89ba.svg": "/my-site/static/media/github.ef0d89ba.svg",
+    "static/media/linkedIn.6713f9ef.svg": "/my-site/static/media/linkedIn.6713f9ef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e995cf70.js",
+    "static/js/2.672172f0.chunk.js",
+    "static/css/main.7db5db14.chunk.css",
+    "static/js/main.c65d4262.chunk.js"
+  ]
+}
