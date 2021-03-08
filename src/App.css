@@ -34,12 +34,12 @@
 }
 
 .Text-container {
-    width: 15vw;
+    width: 25vw;
     text-align: center;
 }
 
 .Social-container {
-    width: 15vw;
+    width: 25vw;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -51,5 +51,5 @@
 }
 
 .Avataar {
-    width: 15vw;
+    width: 25vw;
 }
