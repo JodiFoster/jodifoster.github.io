@@ -54,7 +54,7 @@
     width: 15vw;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 850px) {
     .Text-name {
         font-size: 10vw;
     }
