@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.7db5db14.chunk.css",
-    "main.js": "/static/js/main.c65d4262.chunk.js",
-    "main.js.map": "/static/js/main.c65d4262.chunk.js.map",
+    "main.css": "/static/css/main.632a867c.chunk.css",
+    "main.js": "/static/js/main.148a10e2.chunk.js",
+    "main.js.map": "/static/js/main.148a10e2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ada29411.js",
     "runtime-main.js.map": "/static/js/runtime-main.ada29411.js.map",
     "static/js/2.672172f0.chunk.js": "/static/js/2.672172f0.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.e9bae56d.chunk.js": "/static/js/3.e9bae56d.chunk.js",
     "static/js/3.e9bae56d.chunk.js.map": "/static/js/3.e9bae56d.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.7db5db14.chunk.css.map": "/static/css/main.7db5db14.chunk.css.map",
+    "static/css/main.632a867c.chunk.css.map": "/static/css/main.632a867c.chunk.css.map",
     "static/js/2.672172f0.chunk.js.LICENSE.txt": "/static/js/2.672172f0.chunk.js.LICENSE.txt",
     "static/media/avataar.9648ce48.svg": "/static/media/avataar.9648ce48.svg",
     "static/media/email.169d53f8.svg": "/static/media/email.169d53f8.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.ada29411.js",
     "static/js/2.672172f0.chunk.js",
-    "static/css/main.7db5db14.chunk.css",
-    "static/js/main.c65d4262.chunk.js"
+    "static/css/main.632a867c.chunk.css",
+    "static/js/main.148a10e2.chunk.js"
   ]
 }
