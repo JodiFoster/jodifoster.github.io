@@ -53,3 +53,92 @@
 .Avataar {
     width: 15vw;
 }
+
+@media screen and (max-width: 800px) {
+    .Text-name {
+        font-size: 10vw;
+    }
+
+    .Text {
+        color: white;
+        font-weight: 450;
+        font-family: sans-serif;
+        font-size: 5vw;
+        margin-block-start: 1vw;
+        margin-block-end: 1.5vw;
+        letter-spacing: 0.1vw;
+    }
+
+    .Text-container {
+        width: 75vw;
+        text-align: center;
+    }
+
+    .Social-container {
+        width: 75vw;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-evenly;
+    }
+
+    .Social-icon {
+        height: 10vw;
+    }
+
+    .Avataar {
+        width: 74vw;
+    }
+    html,
+    body {
+        font-size: 22px;
+    }
+
+    .avatar {
+        width: 150px;
+    }
+
+    .subtitle {
+        font-size: 22px;
+    }
+
+    .social-media {
+        margin: 5px auto;
+    }
+
+    .contact-link {
+        font-size: 18px;
+    }
+
+    .brand-image {
+        width: 18px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    html,
+    body {
+        font-size: 12px;
+    }
+
+    .avatar {
+        width: 100px;
+    }
+
+    .subtitle {
+        font-size: 15px;
+    }
+
+    .social-media {
+        margin: 8px auto;
+    }
+
+    .contact-link {
+        font-size: 12px;
+        padding: 10px;
+    }
+
+    .brand-image {
+        width: 12px;
+    }
+}
